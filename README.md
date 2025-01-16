@@ -5,5 +5,5 @@ This is a Python script that fetches random quotes from the [Quotable API](https
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/random-quote-generator.git
+   git clone https://github.com/Cyber-Netic/random-quote-generator.git
    cd random-quote-generator
